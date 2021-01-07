@@ -1,4 +1,4 @@
-# Guess-Me-Game
+# Guess Me Game
 > Description : This is a program that generates a random number and asks the player to guess it. If the player's guess is Higher than the actual number the program displays "Guess lower!". Similarly if the user's guess is too low, the program prints "Guess Higher!". When the user guesses the correct number, the program displays the number of guesses the player used to arrive at the number.
 ---
 
